@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * times_tabel - A function that print the 9 times tabel start with 0
- * r = row, c = column, d = digit of current result
- * Return: time tabel
+ * times_tabel - A function that prints the 9 times tabel, starting with 0
+ * r = row, c = column, d = digits of current result
+ * Return: times tabel
  * add extra space after a single digit
  */
 
