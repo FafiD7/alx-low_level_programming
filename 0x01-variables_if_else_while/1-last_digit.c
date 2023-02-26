@@ -3,7 +3,8 @@
 #include <time.h>
 /**
  * main - Entry point
- *
+ * Description: A function that print the last digit of the number
+ * @n: an input integer
  * Return: 0 (Success)
  */
 int main(void)
