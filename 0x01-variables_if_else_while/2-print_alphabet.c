@@ -9,10 +9,11 @@ int main(void)
 {
 	int a;
 
-	if (a >= 97 && a <= 122)
+	for (a >= 97 && a <= 122; a; a++)
 	{
-		putchar('a');
-		putchar('\n');
+		putchar(a);
+		a++;
 	}
-	return (0);
+		putchar('\n');
+		return (0);
 }
