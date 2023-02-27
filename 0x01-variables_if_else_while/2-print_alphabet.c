@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  * main - A function that print the alphabet in lowercase
- * @a: an input character
  *
- * Retuen: Always 0
+ * Retuen: Always 0 (Success)
  */
 
 int main(void)
