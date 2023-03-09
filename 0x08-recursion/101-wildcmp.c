@@ -1,4 +1,4 @@
-#include "mai.h"
+#include "main.h"
 /**
  * wildcmp - a functiont that compare two string.
  * @s1: a pointer to string
