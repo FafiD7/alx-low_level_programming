@@ -14,8 +14,8 @@ int is_palindrome(char *s)
 	return (check_pal(s, 0, _strlen_recursion(s)));
 }
 /**
- * _strlen_recursin - return te length of the string
- * @s: a string
+ * _strlen_recursion - return te length of the string
+ * @s: a string to calculate the length
  *
  * Return: 0.
  */
