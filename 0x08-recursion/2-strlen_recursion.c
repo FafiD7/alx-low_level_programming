@@ -8,12 +8,12 @@
 
 int _strlen_recursion(char *s)
 {
-	int longit = 0;
+	int  l = 0;
 
 	if (*s)
 	{
-		longit++;
-		longit =  _strlen_recursion(s + 1);
+		l = _strlen_recursion(s + 1);
+		l++;
 	}
-	return (longit);
+	return (l);
 }
