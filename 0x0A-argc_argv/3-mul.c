@@ -4,7 +4,7 @@
 
 /**
  * main -  a program that multiplies two numbers.
- * @agrv: an array of argument
+ * @argv: an array of argument
  * @argc: number of argument
  *
  * Return: always 0
