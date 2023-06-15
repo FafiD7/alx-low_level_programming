@@ -1,12 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 #include <stdlib.h>
 
 /**
  * string_nconcat - a function that concatenates two strings.
  * @s1: string to be concatenate
  * @s2: string to be concatenate
- * n: an integer
+ * @n: an integer
  *
  * Return; always 0
  */
@@ -32,7 +31,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	if (c == NULL)
 		return (NULL);
 	h = 0;
-	while ( j < g)
+	while (j < g)
 	{
 		if (j <= i)
 			c[j] = s1[j];
